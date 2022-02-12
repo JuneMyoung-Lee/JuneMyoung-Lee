@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Android Developer 👋
 
 <!--
 **JuneMyoung-Lee/JuneMyoung-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+<img src="https://img.shields.io/badge/Android-3DDC84?style=plastic&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=plastic&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=plastic&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=plastic&logo=ReactiveX&logoColor=white"/> <img src="https://img.shields.io/badge/Realm-39477F?style=plastic&logo=Realm&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=MySQL&logoColor=white"/>
